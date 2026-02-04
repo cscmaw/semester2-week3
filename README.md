@@ -14,7 +14,7 @@ Instructions on basic use of gcc are provided in the lectures.
 
 ## C programming references
 
-There are a lot of online resources and you can find answers to most simple questions.
+There are a lot of online resources and you can find answers to most simple questions with a quick search.
 
 For a more thorough introduction we would recommend the book:
 - **Programming in C** by Stephen Kochan.
