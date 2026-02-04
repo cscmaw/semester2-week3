@@ -4,7 +4,7 @@
 
 C code has the extension .c
 
-We require a compiler to convert the plain text (.c) file to an executable
+We require a compiler to convert the plain-text, source-code (.c) file to an executable
 
 We will use the GNU Compiler Collection C compiler - gcc
 
